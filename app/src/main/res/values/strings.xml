@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyToraTora</string>
+    <string name="toratora">とらとーらとーらとら・・・</string>
+    <string name="win">あなたの勝ちです！</string>
+    <string name="lose">あなたの負けです・・・</string>
+    <string name="draw">あいこです</string>
+    <string name="back">戻る</string>
+</resources>
